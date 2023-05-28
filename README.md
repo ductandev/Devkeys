@@ -1,7 +1,7 @@
 # Devkeys
-This is my keycaps handmade.
-Facebook: https://www.facebook.com/devkeycaps
-Instargram: https://www.instagram.com/devkeycaps/
+This is my keycaps handmade. <br>
+Facebook: https://www.facebook.com/devkeycaps <br>
+Instargram: https://www.instagram.com/devkeycaps/ <br>
 ![IMG_2375 copy](https://github.com/ductandev/Devkeys/assets/42485856/f73f9e0c-d991-4e55-8dcd-cbc721ef408b)
 ![IMG_2373 copy](https://github.com/ductandev/Devkeys/assets/42485856/b6b247b2-ef22-44a1-860b-b50eea05e769)
 ![IMG_2348 copy](https://github.com/ductandev/Devkeys/assets/42485856/8a8def6e-2059-49ce-9aaf-ac7d475384a6)
